@@ -32,10 +32,10 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   
   <!-- Residencial Sebastian Bach -->
-  <a target="_blank" href="https://residencialsebastianbach.com.br/" style="text-decoration: none;">
+   <!--<a target="_blank" href="https://residencialsebastianbach.com.br/" style="text-decoration: none;">
     <img src="https://residencialsebastianbach.com.br/wp-content/themes/sebastian-bach/assets/img/credlar-vendas.png" width="100" alt="Residencial Sebastian Bach" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;-->
   
   <!-- Credlar Construtora -->
   <a target="_blank" href="https://www.meuapenolitoral.com.br/" style="text-decoration: none;">
