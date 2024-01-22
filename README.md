@@ -17,44 +17,38 @@
 <hr />
 
 <!-- PROJECTS -->
-<h3 align="center">🚀 Projects</h3>
+<!-- <h3 align="center">🚀 Projects</h3>
 <p align="center">
-  <!-- Llama -->
+
   <a target="_blank" href="https://llama.la/" style="text-decoration: none;">
     <img src="https://llama.la/wp-content/themes/llama/assets/img/logos-icones/logo.png" width="100" alt="Llama" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   
-  <!-- Orthox -->
+
   <a target="_blank" href="https://orthox.com.br/" style="text-decoration: none;">
     <img src="https://orthox.com.br/wp-content/themes/ortho-x/assets/img/logo.png" width="100" alt="Orthox" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   
-  <!-- Residencial Sebastian Bach -->
-   <!--<a target="_blank" href="https://residencialsebastianbach.com.br/" style="text-decoration: none;">
-    <img src="https://residencialsebastianbach.com.br/wp-content/themes/sebastian-bach/assets/img/credlar-vendas.png" width="100" alt="Residencial Sebastian Bach" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;-->
-  
-  <!-- Credlar Construtora -->
+
   <a target="_blank" href="https://www.meuapenolitoral.com.br/" style="text-decoration: none;">
     <img src="https://www.credlarconstrutora.com.br/wp-content/uploads/2023/04/Credlar-Horizontal-e1682632221446.png" width="100" alt="Credlar Construtora" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   
-  <!-- Wes Miles -->
+
   <a target="_blank" href="https://www.wesmilesorocaba.com.br/" style="text-decoration: none;">
     <img src="https://www.wesmilesorocaba.com.br/wp-content/themes/we-smile/assets/img/logo.png" width="100" alt="Wes Miles" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   
-  <!-- Alpi Distribuidora -->
+
   <a target="_blank" href="https://alpidistribuidora.com.br/" style="text-decoration: none;">
     <img src="https://alpidistribuidora.com.br/wp-content/themes/alpi-distribuidora/assets/img/logo-alpi.png" width="100" alt="Alpi Distribuidora" />
   </a>
-</p>
-
+</p> -->
+ 
 <hr />
 
 <!-- CONTACT -->
