@@ -1,41 +1,36 @@
-<h1 align="center">👨🏽‍💻 Leonardo Rosa</h1>
-<p align="center">
-  <strong>Fullstack Developer with a degree in Systems Development Analysis and over 2 years of experience in the field. Currently expanding my skills in modern web technologies and enjoying free time activities such as going out, cinema, playing the guitar, gaming, and chatting with friends.</strong>
-</p>
+### Hello, how are you? My name is Leonardo Rosa! 👋
 
+I am a passionate Fullstack Developer dedicated to creating amazing digital experiences. I hold a degree in Systems Development Analysis and have over 2 years of experience in the field. My focus is on fullstack development, and I am constantly expanding my skills in modern technologies. In my free time, I enjoy going out, cinema, playing the guitar, gaming, studying, and always seeking to improve and update my skills.
 
-<hr />
+#
 
-<h2 align="center">🔭 Development Tools 💬</h2>
-<div align="center">
-    
-| Backend | Frontend | Frameworks & Libraries | Databases | Tools |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,sequelize,php" /> | <img src="https://skillicons.dev/icons?i=html,css,jquery" /> | <img src="https://skillicons.dev/icons?i=react,tailwind,vite,bootstrap,angular,typescript" /> | <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,postgres" /> <br/> <img src="https://skillicons.dev/icons?i=elasticsearch" /> | <img src="https://skillicons.dev/icons?i=vscode,git,docker,rabbitmq" /> <br/> <img src="https://skillicons.dev/icons?i=npm,github" /> |
+### Status 📊
+<a href="https://github.com/leonardosilva-stack/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=leonardosilva-stack&show_icons=true&theme=react" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardosilva-stack&show_icons=true&theme=react&layout=compact&langs_count=8&card_width=320" />
+</a>
 
+##
+
+### Technologies 🧑‍💻
+<div style="display: inline_block"><br>
+  <img align="center" alt="Technologies" src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,php,nodejs,express,sequelize,angular,typescript,bootstrap,vite" />
 </div>
 
-<hr />
+##
 
-<h2 align="center">📈 GitHub Stats 🔥</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonardosilva-stack&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosilva-stack&layout=compact&theme=react&border_color=61dafb&hide_border=true" />
+### Learning 📝
+<div style="display: inline_block"><br>
+  <img align="center" alt="Learning" src="https://skillicons.dev/icons?i=ts,docker,elasticsearch,mongodb,postgres,rabbitmq,redis" />
 </div>
 
-<hr />
+#
 
-<h2 align="center">📫 Reach me on</h2>
-<div align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/leonardorosa1/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:leonardo.silva.ads1@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://www.instagram.com/leon_silvaz/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
+### Contact me 😎
+<div> 
+  <a href="https://www.instagram.com/leon_silvaz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:leonardo.silva.ads1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leonardorosa1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
