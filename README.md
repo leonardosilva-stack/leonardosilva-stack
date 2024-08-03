@@ -1,68 +1,41 @@
-<h3 align="center">👨🏽‍💻 Who am I</h3>
+<h1 align="center">👨🏽‍💻 Leonardo Rosa</h1>
 <p align="center">
-  <bold>I am 25 years old and hold a degree in Systems Development Analysis. I have been working in the field for 2 years. In my free time, I enjoy going out, going to the cinema, playing the guitar, gaming, and engaging in conversations with friends.</bold>
+  <strong>Fullstack Developer with a degree in Systems Development Analysis and over 2 years of experience in the field. Currently expanding my skills in modern web technologies and enjoying free time activities such as going out, cinema, playing the guitar, gaming, and chatting with friends.</strong>
 </p>
+
 
 <hr />
 
+<h2 align="center">🔭 Development Tools 💬</h2>
 <div align="center">
-    <h3 align="center">🔭 Development Tools 💬 </h3>
     
-|  Backend  |   Frontend   |    Frameworks  |  Databases   |    Tools    |
-|   :---:   |     :---:    |     :---:      |    :---:     |    :---:    |
-| <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,sequelize,php" /> | <img src="https://skillicons.dev/icons?i=html,css,jquery" /> | <img src="https://skillicons.dev/icons?i=react,tailwind,vite,bootstrap" />  | <img src="https://skillicons.dev/icons?i=mysql" /> | <img src="https://skillicons.dev/icons?i=vscode,git,docker" /><br/><img align="center" src="https://skillicons.dev/icons?i=github" /> |
+| Backend | Frontend | Frameworks & Libraries | Databases | Tools |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,sequelize,php" /> | <img src="https://skillicons.dev/icons?i=html,css,jquery" /> | <img src="https://skillicons.dev/icons?i=react,tailwind,vite,bootstrap,angular,typescript" /> | <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,postgres" /> <br/> <img src="https://skillicons.dev/icons?i=elasticsearch" /> | <img src="https://skillicons.dev/icons?i=vscode,git,docker,rabbitmq" /> <br/> <img src="https://skillicons.dev/icons?i=npm,github" /> |
 
 </div>
 
 <hr />
 
-<!-- PROJECTS -->
-<!-- <h3 align="center">🚀 Projects</h3>
-<p align="center">
+<h2 align="center">📈 GitHub Stats 🔥</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leonardosilva-stack&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosilva-stack&layout=compact&theme=react&border_color=61dafb&hide_border=true" />
+</div>
 
-  <a target="_blank" href="https://llama.la/" style="text-decoration: none;">
-    <img src="https://llama.la/wp-content/themes/llama/assets/img/logos-icones/logo.png" width="100" alt="Llama" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  
-
-  <a target="_blank" href="https://orthox.com.br/" style="text-decoration: none;">
-    <img src="https://orthox.com.br/wp-content/themes/ortho-x/assets/img/logo.png" width="100" alt="Orthox" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  
-
-  <a target="_blank" href="https://www.meuapenolitoral.com.br/" style="text-decoration: none;">
-    <img src="https://www.credlarconstrutora.com.br/wp-content/uploads/2023/04/Credlar-Horizontal-e1682632221446.png" width="100" alt="Credlar Construtora" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  
-
-  <a target="_blank" href="https://www.wesmilesorocaba.com.br/" style="text-decoration: none;">
-    <img src="https://www.wesmilesorocaba.com.br/wp-content/themes/we-smile/assets/img/logo.png" width="100" alt="Wes Miles" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  
-
-  <a target="_blank" href="https://alpidistribuidora.com.br/" style="text-decoration: none;">
-    <img src="https://alpidistribuidora.com.br/wp-content/themes/alpi-distribuidora/assets/img/logo-alpi.png" width="100" alt="Alpi Distribuidora" />
-  </a>
-</p> -->
- 
 <hr />
 
-<!-- CONTACT -->
-<h3  align="center">📫 Reach me on</h3>
-<p align="center">
-  <!-- Linkedin -->
-  <a target="_blank" href="https://www.linkedin.com/in/leonardorosa1/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<h2 align="center">📫 Reach me on</h2>
+<div align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/leonardorosa1/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Email (Outlook) -->
-  <a href="mailto:leonardo.rosa.silva@outlook.com.br" style="text-decoration: none;" target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  <a href="mailto:leonardo.silva.ads1@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+  <a target="_blank" href="https://www.instagram.com/leon_silvaz/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</div>
