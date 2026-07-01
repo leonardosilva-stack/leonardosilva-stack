@@ -23,59 +23,6 @@ My long-term goal is to become a **Software Architect specialized in Java**, des
 
 ---
 
-# 🚀 Featured Project
-
-## Vertex — Financial Backend based on Microservices
-
-A complete backend application built to simulate a modern financial ecosystem using Java and Spring Boot.
-
-### Technologies
-
-* Java 21
-* Spring Boot
-* Spring Security
-* Spring Data JPA
-* MySQL
-* Apache Kafka
-* Redis
-* Keycloak
-* Docker
-* Testcontainers
-* OpenAPI / Swagger
-* GitHub Actions
-
-### Architecture
-
-* User Service
-* Wallet Service
-* Transaction Service
-* Fraud Service
-* Notification Service
-
-The project follows principles such as:
-
-* RESTful APIs
-* Domain Separation
-* Event-Driven Architecture
-* Asynchronous Communication
-* Centralized Authentication
-* Shared Libraries
-* Global Exception Handling
-
-📌 **Repository:**
-https://github.com/leonardosilva-stack/vertex
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=leonardosilva-stack&show_icons=true&theme=react"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosilva-stack&layout=compact&theme=react"/>
-</p>
-
----
-
 # 💻 Tech Stack
 
 <p align="center">
