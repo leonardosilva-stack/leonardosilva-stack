@@ -1,36 +1,128 @@
-### Hello, how are you? My name is Leonardo Rosa! 👋
+# Hi there, I'm Leonardo Rosa 👋
 
-I am a passionate Fullstack Developer dedicated to creating amazing digital experiences. I hold a degree in Systems Development Analysis and have over 2 years of experience in the field. My focus is on fullstack development, and I am constantly expanding my skills in modern technologies. In my free time, I enjoy going out, cinema, playing the guitar, gaming, studying, and always seeking to improve and update my skills.
+### Backend Software Engineer | Java | Spring Boot | Microservices
 
-#
+I am a Backend Software Developer passionate about building scalable, maintainable and high-quality applications.
 
-### Status 📊
-<a href="https://github.com/leonardosilva-stack/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=leonardosilva-stack&show_icons=true&theme=react" />
+Although I have professional experience as a Full Stack Developer, today my main focus is the **Java ecosystem**, Software Architecture and Distributed Systems.
+
+Currently I am deepening my knowledge in:
+
+* ☕ Java
+* 🌱 Spring Boot
+* 🏗️ Software Architecture
+* ⚡ Microservices
+* 📨 Apache Kafka
+* 🔐 Keycloak
+* 🐳 Docker
+* 🧪 Testcontainers
+* ⚙️ CI/CD
+* 🚀 Clean Code & Best Practices
+
+My long-term goal is to become a **Software Architect specialized in Java**, designing resilient systems that solve real business problems.
+
+---
+
+# 🚀 Featured Project
+
+## Vertex — Financial Backend based on Microservices
+
+A complete backend application built to simulate a modern financial ecosystem using Java and Spring Boot.
+
+### Technologies
+
+* Java 21
+* Spring Boot
+* Spring Security
+* Spring Data JPA
+* MySQL
+* Apache Kafka
+* Redis
+* Keycloak
+* Docker
+* Testcontainers
+* OpenAPI / Swagger
+* GitHub Actions
+
+### Architecture
+
+* User Service
+* Wallet Service
+* Transaction Service
+* Fraud Service
+* Notification Service
+
+The project follows principles such as:
+
+* RESTful APIs
+* Domain Separation
+* Event-Driven Architecture
+* Asynchronous Communication
+* Centralized Authentication
+* Shared Libraries
+* Global Exception Handling
+
+📌 **Repository:**
+https://github.com/leonardosilva-stack/vertex
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=leonardosilva-stack&show_icons=true&theme=react"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosilva-stack&layout=compact&theme=react"/>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,mongodb,redis,kafka,docker,git,github,idea,maven" />
+</p>
+
+---
+
+# 📚 Currently Studying
+
+* Software Architecture
+* Design Patterns
+* Distributed Systems
+* Spring Security
+* Testcontainers
+* JUnit & Mockito
+* Docker
+* Kubernetes
+* CI/CD
+* Observability
+
+---
+
+# 🎯 2026 Goals
+
+* ✅ Become a Java Backend Engineer
+* 🚀 Complete the Vertex platform
+* 📖 Master Java Fundamentals
+* 🧪 Increase automated test coverage
+* ☁️ Learn Kubernetes
+* 🏗️ Deepen knowledge in Software Architecture
+* 💼 Join a large technology company
+
+---
+
+# 🤝 Let's Connect
+
+<p align="left">
+<a href="https://www.linkedin.com/in/leonardorosa1/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardosilva-stack&show_icons=true&theme=react&layout=compact&langs_count=8&card_width=320" />
+
+<a href="mailto:leonardo.rosa.silva@outlook.com.br">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+</p>
 
-##
+---
 
-### Technologies 🧑‍💻
-<div style="display: inline_block"><br>
-  <img align="center" alt="Technologies" src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,php,nodejs,express,sequelize,angular,typescript,bootstrap,vite" />
-</div>
-
-##
-
-### Learning 📝
-<div style="display: inline_block"><br>
-  <img align="center" alt="Learning" src="https://skillicons.dev/icons?i=ts,docker,elasticsearch,mongodb,postgres,rabbitmq,redis" />
-</div>
-
-#
-
-### Contact me 😎
-<div> 
-  <a href="https://www.instagram.com/leon_silvaz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:leonardo.silva.ads1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonardorosa1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+> *"Great software is not just about making things work. It's about making them simple, scalable and maintainable."*
